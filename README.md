@@ -23,38 +23,31 @@ To run the notebook, ensure you have the following installed:
   - `numpy`
   - `scipy`
 
+## Prerequisites
+1. Install Python 3.8 or higher.
+2. Install the required Python packages using the provided `requirements.txt`.
+
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dialogue_summary.git
-   cd dialogue_summary
+   git clone https://github.com/RuvenGuna94/LLM-Fine-Tuning.git
+   cd LLM-Fine-Tuning
    ```
-
-2. Set up a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Install the required dependencies:
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
 ## Usage
-1. Launch the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-2. Open `PEFT_Fine_Tuning.ipynb` in your browser and follow the instructions in the notebook.
+1. Open the notebook `PEFT_Fine_Tuning.ipynb` in Jupyter Notebook or VS Code.
+2. Follow the steps outlined in the notebook to fine-tune the FLAN-T5 model.
+3. Evaluate the model's performance using the ROUGE metric.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
 
 ## Developer Log
 
