@@ -1,0 +1,65 @@
+# Fine-Tuning a Generative AI Model
+
+## Description
+This repository contains a Jupyter Notebook titled **PEFT_Fine_Tuning.ipynb**, which provides a step-by-step guide to fine-tuning a generative AI model. The notebook explores techniques to adapt a pre-trained language model to specific tasks or datasets, enhancing its performance and applicability.
+
+## Features
+- Introduction to the challenges of evaluating LLMs.
+- Comparison of traditional machine learning evaluation methods with those required for LLMs.
+- Implementation of key evaluation metrics:
+  - **ROUGE (Recall-Oriented Understudy for Gisting Evaluation)**
+  - **BLEU (Bilingual Evaluation Understudy)**
+- Demonstrates fine-tuning of generative models on custom datasets.
+- Practical examples and calculations for metrics like ROUGE-1, ROUGE-2, and ROUGE-L.
+
+## Prerequisites
+To run the notebook, ensure you have the following installed:
+- Python 3.8 or later
+- Jupyter Notebook or JupyterLab
+- Required Python libraries (install using the provided requirements file):
+  - `transformers`
+  - `datasets`
+  - `torch`
+  - `numpy`
+  - `scipy`
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/dialogue_summary.git
+   cd dialogue_summary
+   ```
+
+2. Set up a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+1. Launch the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+
+2. Open `PEFT_Fine_Tuning.ipynb` in your browser and follow the instructions in the notebook.
+
+## Contributing
+Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+## Developer Log
+
+
+
+
+
+
