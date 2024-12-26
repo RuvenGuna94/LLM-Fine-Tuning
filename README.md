@@ -50,8 +50,19 @@ Feel free to fork the repository and submit pull requests. Suggestions and impro
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Developer Log
+### 24 December 2024
+- Created the repo, directory and all necessary files
+- Configured local env to run code
+  - Installed required conda env and kernel
 
-
+### 25 December 2024
+- Updated all version libraries such that it is able to run
+- Load and test base model with zero shot inference
+- Fine tuning
+  - Preprocessed dataset with instructional prompt
+  - Create train, validation and test sets
+  - Fine tune with minimum configs to reduce compute requirements
+  - Evaluate against base model (Human evaluation and ROUGE metric)
 
 
 
