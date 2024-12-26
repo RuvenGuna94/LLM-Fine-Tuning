@@ -63,6 +63,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
   - Create train, validation and test sets
   - Fine tune with minimum configs to reduce compute requirements
   - Evaluate against base model (Human evaluation and ROUGE metric)
+- Perform PEFT
+  - Setup and load LORA
+  - Create and train PEFT adapter
+  - Model Evaluation
+
 
 
 
