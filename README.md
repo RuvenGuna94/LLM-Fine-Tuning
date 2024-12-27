@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Configured local env to run code
   - Installed required conda env and kernel
 
-### 25 December 2024
+### 26 December 2024
 - Updated all version libraries such that it is able to run
 - Load and test base model with zero shot inference
 - Fine tuning
@@ -68,7 +68,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
   - Create and train PEFT adapter
   - Model Evaluation
 
-
+### 27 December
+- Converted print statements for model performance comparison into graphs
+- Updated technical explanations for more clarity
+- Added in conclusion. 
 
 
 
