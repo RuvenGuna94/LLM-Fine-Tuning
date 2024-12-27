@@ -10,4 +10,4 @@ numpy==2.2.1
 pandas==2.2.3
 ipykernel==6.29.5
 rouge_score==0.1.2
-matplotlib==0.1.7
+matplotlib==0.1.7   
