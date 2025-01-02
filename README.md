@@ -30,7 +30,7 @@ To run the notebook, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RuvenGuna94/LLM-Fine-Tuning.git
+   git clone [https://github.com/RuvenGuna94/LLM-Fine-Tuning.git](https://github.com/RuvenGuna94/Dialogue-Summary-PEFT-Fine-Tuning.git)
    cd LLM-Fine-Tuning
    ```
 2. Install dependencies:
