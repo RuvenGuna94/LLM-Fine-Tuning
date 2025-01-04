@@ -23,10 +23,6 @@ To run the notebook, ensure you have the following installed:
   - `numpy`
   - `scipy`
 
-## Prerequisites
-1. Install Python 3.8 or higher.
-2. Install the required Python packages using the provided `requirements.txt`.
-
 ## Installation
 1. Clone the repository:
    ```bash
